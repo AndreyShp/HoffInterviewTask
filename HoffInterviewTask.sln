@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "HoffInterviewTask\Web.csproj", "{EF151E07-8547-4502-AE56-36D24E2FC549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralBankClient", "CentralBankClient\CentralBankClient.csproj", "{9B094389-2E01-4646-92B1-CDBDAEACC2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF151E07-8547-4502-AE56-36D24E2FC549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF151E07-8547-4502-AE56-36D24E2FC549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF151E07-8547-4502-AE56-36D24E2FC549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF151E07-8547-4502-AE56-36D24E2FC549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B094389-2E01-4646-92B1-CDBDAEACC2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B094389-2E01-4646-92B1-CDBDAEACC2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B094389-2E01-4646-92B1-CDBDAEACC2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B094389-2E01-4646-92B1-CDBDAEACC2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C7C01C-9653-4F6B-B2FD-D48397A58D8B}
+	EndGlobalSection
+EndGlobal
